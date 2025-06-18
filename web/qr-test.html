@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Restaurant QR Code</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: white;
+        }
+        #qrcode img {
+            width: 300px;
+            height: 300px;
+        }
+    </style>
+</head>
+<body>
+    <div id="qrcode">
+        <img src="https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=restaurant1" alt="Restaurant QR Code">
+    </div>
+</body>
+</html>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "15288596254",
+    "project_id": "qr-menu-app-b46a6",
+    "storage_bucket": "qr-menu-app-b46a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15288596254:android:21ee03403f4e7848737b0f",
+        "android_client_info": {
+          "package_name": "com.example.qr_menu_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBasSnPZc4RaQP49ijR1q0k5lVCCd92r-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
