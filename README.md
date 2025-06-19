@@ -1,6 +1,7 @@
 # qr_menu_app
-Örnek QR kod görüntüsü için;
-web/qr-test.html lokasyonundaki html sayfasında örnek restauran QR görüntüsü mevcuttur.
+
+Örnek QR kod görüntüsü için; "web/qr-test.html" lokasyonundaki html sayfasında örnek restauran QR görüntüsü mevcuttur. 
+Bu QR Kod ile tanımlı olan restaurantın menü bilgileri çekilebilecektir.
  
 
 ## Getting Started
