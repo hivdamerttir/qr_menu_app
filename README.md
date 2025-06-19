@@ -1,6 +1,7 @@
 # qr_menu_app
-
-A new Flutter project.
+Örnek QR kod görüntüsü için;
+web/qr-test.html lokasyonundaki html sayfasında örnek restauran QR görüntüsü mevcuttur.
+ 
 
 ## Getting Started
 
